@@ -1,0 +1,2 @@
+# Object-oriented-Programming
+It is important to know different paradigms and styles of programming because each equips you with different design tools to solve different kinds of problems. . As an aside, the other major programming paradigms are Logic and Functional Programming. Each of these paradigms have their own unique strengths and benefits that make them equally well suited for general programming.
